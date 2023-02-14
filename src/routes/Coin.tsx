@@ -1,5 +1,5 @@
 function Coin() {
-  return <h1>Coin</h1>;
+  return <h1>Coin A</h1>;
 }
 
 export default Coin;
